@@ -314,16 +314,8 @@ Sí. Usa el switch 🌐 en la esquina superior derecha para alternar entre **Esp
 
 ---
 
-## 📄 Licencia
-
-Distribuido bajo la licencia **MIT**. Consulta el archivo [`LICENSE`](LICENSE) para más información.
-
----
-
 <div align="center">
 
 Desarrollado con ❤️ para la comunidad científica
-
-[🐛 Reportar problema](../../issues) · [💡 Solicitar feature](../../issues)
 
 </div>
